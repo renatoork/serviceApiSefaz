@@ -1,0 +1,15 @@
+D:\git\PoC Projects\serviceApiSefaz\ServerApiSefaz\ServerApiSefaz\bin\Debug\netcoreapp2.1\ServerApiSefaz.exe
+D:\git\PoC Projects\serviceApiSefaz\ServerApiSefaz\ServerApiSefaz\bin\Debug\netcoreapp2.1\ServerApiSefaz.deps.json
+D:\git\PoC Projects\serviceApiSefaz\ServerApiSefaz\ServerApiSefaz\bin\Debug\netcoreapp2.1\ServerApiSefaz.runtimeconfig.json
+D:\git\PoC Projects\serviceApiSefaz\ServerApiSefaz\ServerApiSefaz\bin\Debug\netcoreapp2.1\ServerApiSefaz.runtimeconfig.dev.json
+D:\git\PoC Projects\serviceApiSefaz\ServerApiSefaz\ServerApiSefaz\bin\Debug\netcoreapp2.1\ServerApiSefaz.dll
+D:\git\PoC Projects\serviceApiSefaz\ServerApiSefaz\ServerApiSefaz\bin\Debug\netcoreapp2.1\ServerApiSefaz.pdb
+D:\git\PoC Projects\serviceApiSefaz\ServerApiSefaz\ServerApiSefaz\obj\Debug\netcoreapp2.1\ServerApiSefaz.csprojAssemblyReference.cache
+D:\git\PoC Projects\serviceApiSefaz\ServerApiSefaz\ServerApiSefaz\obj\Debug\netcoreapp2.1\ServerApiSefaz.csproj.CoreCompileInputs.cache
+D:\git\PoC Projects\serviceApiSefaz\ServerApiSefaz\ServerApiSefaz\obj\Debug\netcoreapp2.1\ServerApiSefaz.RazorAssemblyInfo.cache
+D:\git\PoC Projects\serviceApiSefaz\ServerApiSefaz\ServerApiSefaz\obj\Debug\netcoreapp2.1\ServerApiSefaz.RazorAssemblyInfo.cs
+D:\git\PoC Projects\serviceApiSefaz\ServerApiSefaz\ServerApiSefaz\obj\Debug\netcoreapp2.1\ServerApiSefaz.AssemblyInfoInputs.cache
+D:\git\PoC Projects\serviceApiSefaz\ServerApiSefaz\ServerApiSefaz\obj\Debug\netcoreapp2.1\ServerApiSefaz.AssemblyInfo.cs
+D:\git\PoC Projects\serviceApiSefaz\ServerApiSefaz\ServerApiSefaz\obj\Debug\netcoreapp2.1\ServerApiSefaz.RazorTargetAssemblyInfo.cache
+D:\git\PoC Projects\serviceApiSefaz\ServerApiSefaz\ServerApiSefaz\obj\Debug\netcoreapp2.1\ServerApiSefaz.dll
+D:\git\PoC Projects\serviceApiSefaz\ServerApiSefaz\ServerApiSefaz\obj\Debug\netcoreapp2.1\ServerApiSefaz.pdb

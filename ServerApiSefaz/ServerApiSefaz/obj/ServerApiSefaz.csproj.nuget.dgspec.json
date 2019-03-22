@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\git\\PoC Projects\\serviceApiSefaz\\ServerApiSefaz\\ServerApiSefaz\\ServerApiSefaz.csproj": {}
+  },
+  "projects": {
+    "D:\\git\\PoC Projects\\serviceApiSefaz\\ServerApiSefaz\\ServerApiSefaz\\ServerApiSefaz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\git\\PoC Projects\\serviceApiSefaz\\ServerApiSefaz\\ServerApiSefaz\\ServerApiSefaz.csproj",
+        "projectName": "ServerApiSefaz",
+        "projectPath": "D:\\git\\PoC Projects\\serviceApiSefaz\\ServerApiSefaz\\ServerApiSefaz\\ServerApiSefaz.csproj",
+        "packagesPath": "C:\\Users\\renato.arruda\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\PoC Projects\\serviceApiSefaz\\ServerApiSefaz\\ServerApiSefaz\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\renato.arruda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\renato\\.dotnet\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://www.myget.org/F/megasistemas/auth/9105dcbb-9b59-4564-b33e-c663f3af8818/api/v3/index.json": {},
+          "https://www.myget.org/F/xbim-develop/api/v3/index.json": {},
+          "https://www.myget.org/F/xbim-master/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
